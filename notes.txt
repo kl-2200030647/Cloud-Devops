@@ -1,0 +1,7 @@
+hello 
+
+Working with git and bit bucket 
+
+Want to deploy the file from git bash to bit bucket 
+
+Checking wether it is deployed correctly or not 
